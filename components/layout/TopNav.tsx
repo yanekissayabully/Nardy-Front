@@ -133,8 +133,7 @@ export function TopNav() {
           N
         </div>
         <div>
-          <span className="font-bold text-amber-200 text-sm tracking-wide">NardiPro</span>
-          <span className="hidden sm:inline text-amber-500/40 text-xs ml-1.5">Длинные Нарды</span>
+          <span className="font-bold text-amber-200 text-sm tracking-wide">Nardiki</span>
         </div>
       </div>
 
