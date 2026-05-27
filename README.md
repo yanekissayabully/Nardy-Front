@@ -44,5 +44,7 @@ Frontend: [https://nardipro.vercel.app](https://nardy-front.vercel.app/)
 
 Backend API: nardy-back.railway.internal
 
+https://github.com/yanekissayabully/Nardy-Back - BACK
+
 
 Очень мало времени дали, и к сожалению много работы накинулось на меня. Все что успел.
